@@ -1,0 +1,60 @@
+.answerToOne{
+
+	height: auto;
+    max-width: 40%;
+
+}
+img.imgyoungPutin{
+
+	height: auto;
+	width: 20%;
+	max-width: 20%
+}
+.thumbnail{
+	
+	display: center;
+	width: 100%;
+	height: auto;
+
+}
+
+.PrimePic{
+	
+	width: 28%;
+}
+
+body{
+	background-image: url("http://cdn.wallpapersafari.com/4/7/skq8lt.jpg");
+	
+}
+.row{
+	display:block; 
+	height:auto;
+	margin:auto;
+}
+
+.isol{
+	margin:auto;
+	text-align: center;
+	float: none;
+}
+.col-sm-6 .col-md-4{
+	margin: auto;
+	float:none;
+}
+
+
+.num{
+	word-spacing: middle;
+}
+
+img{
+	width: 30%;
+	max-width: 30%;
+}
+
+.submitPic{
+	height: auto;
+    width: 13%;
+	max-width:20%;
+}
