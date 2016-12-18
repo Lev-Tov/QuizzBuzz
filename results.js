@@ -44,13 +44,13 @@ var Score= value1+value2+value3+value4;
 
 
 
-if (Score<5){
+if (Score<=5){
 	alert(("Your score is "+" ")+ Score +(" If you are interested you can come ask me interesting book about him, it seems that you do not really who is Vladimir Putin"));
 }
 
 
 
-else if (Score>6 && Score<10){
+else if (Score>5 && Score<13){
 		alert(("Your score is "+" ")+ Score +(" Your knowledge about the current russian President are very basic !"));
 }
 
